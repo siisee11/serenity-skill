@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serenity"
+  short_description: "Find overlooked supply-chain bottleneck stocks"
+  default_prompt: "Use $serenity to research overlooked public companies positioned around AI supply-chain bottlenecks."
